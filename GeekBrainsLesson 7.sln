@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GeekBrainsLesson 7", "GeekBrainsLesson 7\GeekBrainsLesson 7.csproj", "{B408E6CB-A202-41E1-BDDF-CEA10E8564DD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B408E6CB-A202-41E1-BDDF-CEA10E8564DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B408E6CB-A202-41E1-BDDF-CEA10E8564DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B408E6CB-A202-41E1-BDDF-CEA10E8564DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B408E6CB-A202-41E1-BDDF-CEA10E8564DD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {950B6959-13DD-4CA8-ADBF-90C81EA0A801}
+	EndGlobalSection
+EndGlobal
